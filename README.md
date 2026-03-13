@@ -127,8 +127,3 @@ jupyter notebook "ai-and-data-science-job-market-dataset-20202026-et.ipynb"
 **Musawir456**  
 GitHub: [@Musawir456](https://github.com/Musawir456)
 
----
-
-## 📄 License
-
-This project is open-source and available for educational and research purposes.
